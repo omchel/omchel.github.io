@@ -1,4 +1,5 @@
-Strata by HTML5 UP
+Portfolio/Resume website for Chelina Ortiz M.
+Template by: Strata by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -21,9 +22,6 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
